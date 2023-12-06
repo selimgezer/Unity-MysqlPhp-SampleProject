@@ -1,4 +1,4 @@
-# Unity_MysqlPhp_Ornek_Proje
+# Unity ile Mysql-Php Kullanımına Yönelik Örnek Proje
 
 Unity ile Mysql-Php eğitim serisinde kullandığım proje doyası. İlgili eğitim serisine göz atmak için linki kullanabilirsiniz.
 https://www.youtube.com/watch?v=zoWDXhm63Rc&list=PLUGBd0sVm3sjrdmBd6kCIKRtJN2tZuQcb
